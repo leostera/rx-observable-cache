@@ -1,0 +1,25 @@
+{
+  "name": "rx-observable-cache",
+  "version": "1.0.0",
+  "description": "Caching operator for Observable object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostera/rx-observable-cache.git"
+  },
+  "keywords": [
+    "reactive",
+    "rx",
+    "cache",
+    "observable"
+  ],
+  "author": "Leandro Ostera <leandro@ostera.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ostera/rx-observable-cache/issues"
+  },
+  "homepage": "https://github.com/ostera/rx-observable-cache#readme"
+}
